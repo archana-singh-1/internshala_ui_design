@@ -1,0 +1,46 @@
+.heading{
+    padding-top: 100px;
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+.span_tag{
+    color: #ff5b5b;
+    font-size: medium;
+    font-weight: 400;
+}
+
+.h2_tag{
+    font-size: xx-large;
+    padding: 1px 1px 74px 19px;
+}
+
+.about_row{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.about_col{
+    padding: 42px 4px 53px 80px ;
+}
+
+.about_col_2{
+    padding: 30px;
+}
+
+.about_col_3{
+    padding: 30px;
+
+}
+.ourProject{
+    padding-top: 100px;
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+.about{
+    padding: 26px 29px 2px 39px ;
+}
